@@ -1,0 +1,40 @@
+    <div id="jm">
+      <div class="vb row -i-ctr -j-ctr _head -bg-gy05">
+        <div class="col3 -df -j-start">
+          <a href="index.html" class="_link -df -i-ctr -or5 -m -fs12" target="_blank" rel="noopener">
+            <svg viewBox="0 0 26 32.5" class="ic -f-or5 -maxs bg-warning" width="16" height="16" style="enable-background:new 0 0 26 26;">
+              <use xlink:href="./index.html"></use>
+              <g><path d="M13,26c7.18,0,13-5.82,13-13c0-7.18-5.82-13-13-13C5.82,0,0,5.82,0,13C0,20.18,5.82,26,13,26z M10.683,10L13,2.5l2.318,7.5   h7.432l-6.001,4.56L19.025,22L13,17.425L6.975,22l2.275-7.44l-6-4.56H10.683z"/></g>
+            </svg>
+              بيع علي L Z C
+          </a>
+        </div>
+        <div class="col10 -df -j-ctr -fs0">
+          <a class="vent-link" title="Jumia">
+            <svg viewBox="0 0 67 24" class="ic" width="67" height="24">
+              <use xlink:href="https://www.jumia.com.eg/assets_he/images/i-global.2771d4ef.svg#venture-jumia"></use>
+            </svg>
+          </a>
+          <a class="vent-link" title="Jumia Pay" href="https://pay.jumia.com.eg/?utm_source=jumia&amp;utm_medium=mall&amp;utm_campaign=Venturebar" rel="nofollow noopener" target="_blank">
+            <svg viewBox="0 0 60 24" class="ic" width="60" height="24">
+              <use xlink:href="https://www.jumia.com.eg/assets_he/images/i-global.2771d4ef.svg#venture-pay"></use>
+            </svg>
+          </a>
+        </div>
+        <div class="col3 -df -j-end -wt -mla -gy5">
+          <a href="/en/" class="-vrl -fs0">
+            <span class="-dif -i-ctr -fs12">
+              <svg viewBox="0 0 24 24" class="ic -mrs" width="16" height="16">
+                <use xlink:href="https://www.jumia.com.eg/assets_he/images/i-global.2771d4ef.svg#flag-en"></use>
+              </svg>English</span>
+          </a>
+          <a class="-vrl -fs0">
+            <span class="-dif -i-ctr -fs12 -op03">
+              <svg viewBox="0 0 24 24" class="ic -mrs" width="16" height="16">
+                <use xlink:href="https://www.jumia.com.eg/assets_he/images/i-global.2771d4ef.svg#flag-eg"></use>
+              </svg>عربي
+            </span>
+          </a>
+        </div>
+      </div>
+    </div>
